@@ -1,4 +1,5 @@
-## This is the BGU-Racing Organization Readme file!
+## Welcome to the BGU-Racing Organization Page!
+## This Organization is PRIVATE!, in order to see the repositories you must be a member!
 
 <!--
 
